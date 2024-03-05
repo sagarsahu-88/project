@@ -249,7 +249,7 @@
             </div>
             <h4 class="price">600</h4>
           </div>
-        </div>
+</div>
         <div class="product">
           <div class="product-header">
             <img src="./images/pic2.jpg" alt="">
